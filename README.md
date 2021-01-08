@@ -10,7 +10,10 @@
 </tr>
 </thead>
 <tbody>
- 
+<tr>
+<td>EnterIntoChat()</td>
+<td>Post a custom message into chat</td>
+</tr>
 </tbody>
 </table>
  <h2> Supported</h2>
