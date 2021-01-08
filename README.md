@@ -13,14 +13,14 @@
  
 </tbody>
 </table>
- <h2> Roadmap</h2>
- <p align="center"><img src="https://i.imgur.com/X9cf3J6.png" width="950" height="425"> </p>
  <h2> Supported</h2>
  <p>Were supporting only PC clients of Minecraft. Because there are only two official Minecraft Editions on the PC we can easly define them in a roadmap which we are going to handle first.</p>
   <h3> Supported Minecraft Editions</h3>
   <ul>
    <li>Minecraft Java Edition</li>
    <li>Minecraft Bedrock Edition</li></ul>
+<h2> Roadmap</h2>
+<p align="center"><img src="https://i.imgur.com/X9cf3J6.png" width="950" height="425"> </p>
 <h2> Tests</h2>
 <p>Thank you for contributing to Quest!
 
