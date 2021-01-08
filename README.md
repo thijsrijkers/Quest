@@ -20,7 +20,7 @@
    <li>Minecraft Java Edition</li>
    <li>Minecraft Bedrock Edition</li></ul>
 <h2> Roadmap</h2>
-<p align="center"><img src="https://i.imgur.com/aVTNW0q.png" width="950" height="425"> </p>
+<p align="center"><img src="https://i.imgur.com/86iwoA4.png" width="960" height="425"> </p>
 <h2> Tests</h2>
 <p>Thank you for contributing to Quest!
 
