@@ -1,0 +1,16 @@
+D:\Quest\obj\Debug\net5.0\Quest.csprojAssemblyReference.cache
+D:\Quest\obj\Debug\net5.0\Quest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quest\obj\Debug\net5.0\Quest.AssemblyInfoInputs.cache
+D:\Quest\obj\Debug\net5.0\Quest.AssemblyInfo.cs
+D:\Quest\obj\Debug\net5.0\Quest.csproj.CoreCompileInputs.cache
+D:\Quest\bin\Debug\net5.0\Quest.exe
+D:\Quest\bin\Debug\net5.0\Quest.deps.json
+D:\Quest\bin\Debug\net5.0\Quest.runtimeconfig.json
+D:\Quest\bin\Debug\net5.0\Quest.runtimeconfig.dev.json
+D:\Quest\bin\Debug\net5.0\Quest.dll
+D:\Quest\bin\Debug\net5.0\ref\Quest.dll
+D:\Quest\bin\Debug\net5.0\Quest.pdb
+D:\Quest\obj\Debug\net5.0\Quest.dll
+D:\Quest\obj\Debug\net5.0\ref\Quest.dll
+D:\Quest\obj\Debug\net5.0\Quest.pdb
+D:\Quest\obj\Debug\net5.0\Quest.genruntimeconfig.cache
